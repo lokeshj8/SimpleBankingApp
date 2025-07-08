@@ -55,10 +55,6 @@ All operations are handled using simple Java logic — **no external libraries**
 - Learn input handling using `Scanner`  
 - Practice loops and conditions (`if`, `switch`)  
 - Modularize code with reusable functions  
-
----
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshj8&show_icons=true&theme=tokyonight" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshj8&layout=compact&theme=tokyonight" width="350"/> </p
 ---
 <p align="center"> Made with ❤️ using Java </p> 
                                                                                                                                                                                                                                                                              
